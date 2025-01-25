@@ -5176,11 +5176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lloyd\\OneDrive\\Documents\\UP\\getting ready\\Attemp1\\Attemp1.csproj",
+      "projectUniqueName": "C:\\Users\\lloyd\\OneDrive\\Documents\\UP\\Apis\\Attemp1\\Attemp1.csproj",
       "projectName": "Attemp1",
-      "projectPath": "C:\\Users\\lloyd\\OneDrive\\Documents\\UP\\getting ready\\Attemp1\\Attemp1.csproj",
+      "projectPath": "C:\\Users\\lloyd\\OneDrive\\Documents\\UP\\Apis\\Attemp1\\Attemp1.csproj",
       "packagesPath": "C:\\Users\\lloyd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lloyd\\OneDrive\\Documents\\UP\\getting ready\\Attemp1\\obj\\",
+      "outputPath": "C:\\Users\\lloyd\\OneDrive\\Documents\\UP\\Apis\\Attemp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lloyd\\AppData\\Roaming\\NuGet\\NuGet.Config",

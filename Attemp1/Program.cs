@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Attemp1.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+//just wanted to test github
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

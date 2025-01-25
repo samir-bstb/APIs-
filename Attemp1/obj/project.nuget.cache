@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0py3LnhGCDc=",
+  "dgSpecHash": "hG7b3ZL78KI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lloyd\\OneDrive\\Documents\\UP\\getting ready\\Attemp1\\Attemp1.csproj",
+  "projectFilePath": "C:\\Users\\lloyd\\OneDrive\\Documents\\UP\\Apis\\Attemp1\\Attemp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lloyd\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\lloyd\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
