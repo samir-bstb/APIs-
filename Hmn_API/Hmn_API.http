@@ -1,0 +1,6 @@
+@Hmn_API_HostAddress = http://localhost:5101
+
+GET {{Hmn_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -16,13 +16,13 @@ namespace Attemp1.Models
         public int Age { get; set; }
 
         public decimal Height { get; set; }
-        [Column(TypeName = "decimal(3, 2)")]
+        [Column(TypeName = "decimal(5, 2)")]
 
         public decimal Weight { get; set; }
-        [Column(TypeName = "decimal(3, 2)")]
+        [Column(TypeName = "decimal(5, 2)")]
 
         public string Gender { get; set; } = string.Empty;
 
-        public List<Comment> Comments { get; set; } = new List<Comment>();
+        public List<Comment> Comments { get; set; } = new List<Comment>()
     }
 }
