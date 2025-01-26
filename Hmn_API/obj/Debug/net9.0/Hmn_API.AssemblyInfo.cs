@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hmn_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6033a0f70858ed89ce7f76d89e54f9e2f88df219")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55496de59e3483e24e359db9bdf3b882c599c54e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hmn_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hmn_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
